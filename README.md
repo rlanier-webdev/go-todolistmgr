@@ -20,7 +20,7 @@ A simple command-line interface (CLI) program written in Go that allows users to
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/task-manager-cli.git
+   git clone https://github.com/rlanier-webdev/go-todolistmgr.git
    ```
 2. Navigate to the project directory:
    ```bash
