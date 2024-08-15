@@ -24,7 +24,7 @@ A simple command-line interface (CLI) program written in Go that allows users to
    ```
 2. Navigate to the project directory:
    ```bash
-   cd task-manager-cli
+   cd go-todolistmgr
    ```
 3. Build the program:
    ```bash
@@ -35,7 +35,7 @@ A simple command-line interface (CLI) program written in Go that allows users to
 
 1. Run the program:
    ```bash
-   ./task-manager-cli
+   ./go-todolistmgr
    ```
 2. Follow the on-screen menu to manage your tasks.
 
